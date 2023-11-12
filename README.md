@@ -1,3 +1,5 @@
+### :bangbang: DEPRECATED AND ARCHIVED
+
 # common-build
 
 Build and push images to DockerHub since DockerHub builds are slow.
